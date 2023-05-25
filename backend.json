@@ -1,0 +1,86 @@
+[
+  {
+    "name": "MongoDB 4",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "NoSQL database for our backend services"
+  },
+  {
+    "name": "Redis",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Memory database for our backend services"
+  },
+  {
+    "name": "RabbitMQ",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Message Broker"
+  },
+  {
+    "name": "Docker",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Container Manager"
+  },
+  {
+    "name": "Kubernetes",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "container orchestration engine for automating deployment, scaling, and management of containerized applications"
+  },
+  {
+    "name": "MongoDB 4",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "NoSQL database for our backend services"
+  },
+  {
+    "name": "Javascript",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Programming language"
+  },
+  {
+    "name": "NodeJS 14.20",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "JavaScript runtime environment"
+  },
+  {
+    "name": "NestJS",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "A progressive Node.js framework for building efficient, reliable and scalable server-side applications."
+  },
+  {
+    "name": "Eslint",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Find and fix problems in your JavaScript code"
+  },
+  {
+    "name": "Jest",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "JavaScript Testing Framework with a focus on simplicity"
+  },
+  {
+    "name": "TODO",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Will be updated soon"
+  }
+]
