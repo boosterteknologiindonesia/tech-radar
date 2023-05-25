@@ -7,6 +7,13 @@
     "description": "NoSQL database for our backend services"
   },
   {
+    "name": "MySQL",
+    "ring": "hold",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Our system does not need a relational database"
+  },
+  {
     "name": "Redis",
     "ring": "adopt",
     "quadrant": "Platforms",
@@ -33,13 +40,6 @@
     "quadrant": "Platforms",
     "isNew": "FALSE",
     "description": "container orchestration engine for automating deployment, scaling, and management of containerized applications"
-  },
-  {
-    "name": "MongoDB 4",
-    "ring": "adopt",
-    "quadrant": "Platforms",
-    "isNew": "FALSE",
-    "description": "NoSQL database for our backend services"
   },
   {
     "name": "Typescript",
@@ -77,10 +77,17 @@
     "description": "JavaScript Testing Framework with a focus on simplicity"
   },
   {
-    "name": "TODO",
+    "name": "Domain Driven Design",
     "ring": "adopt",
     "quadrant": "Techniques",
-    "isNew": "FALSE",
-    "description": "Will be updated soon"
+    "isNew": "TRUE",
+    "description": "We design code structure modular by domain"
+  },
+  {
+    "name": "Test Driven Development",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "a methodology in software development that focuses on an iterative development cycle where the emphasis is placed on writing test cases before the actual feature or function is written"
   }
 ]
