@@ -203,6 +203,13 @@
     "description": "In order to reduce code duplicaton and faster load. https://docs.npmjs.com/creating-node-js-modules"
   },
   {
+    "name": "Firebase Hosting",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "TRUE",
+    "description": "Firebase Hosting provides fast and secure hosting for your web app, static and dynamic content, and microservices."
+  },
+  {
     "name": "Iframe to load segment of existing web",
     "ring": "hold",
     "quadrant": "Techniques",
