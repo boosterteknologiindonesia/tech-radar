@@ -1,0 +1,275 @@
+[
+  {
+    "name": "JavaScript",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "JavaScript is our main programming language for FrontEnd"
+  },
+  {
+    "name": "TypeScript",
+    "ring": "trial",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "TypeScript helps to abstract our development"
+  },
+  {
+    "name": "CSS 3",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Defacto styling standard"
+  },
+  {
+    "name": "SCSS",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "CSS preprocessor. Simplify CSS coding"
+  },
+  {
+    "name": "JSON",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Standard data structure"
+  },
+  {
+    "name": "HTML 5",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Defacto web styling standard"
+  },
+  {
+    "name": "ES6+",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Modern JS standard"
+  },
+  {
+    "name": "Vue 2",
+    "ring": "hold",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Modern UI Framework, EOL around 1 year. It's on the path to deprecation."
+  },
+  {
+    "name": "Vue 3.2.47",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "Next version of vue js. Blue 3.0 (DLS) has been published with Vue 3 support"
+  },
+  {
+    "name": "Nodejs 16.20",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "JS Engine, defacto"
+  },
+  {
+    "name": "Vitest",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "Official test runner for Vite.js. It's based on Jest, easy to adopt"
+  },
+  {
+    "name": "Eslint",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Linter. It's used to provide quick style correction and applying good coding patterns."
+  },
+  {
+    "name": "Service worker",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Web worker used to manage resources and background process for a website that can make it behave like a standalone application."
+  },
+  {
+    "name": "Pinia",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "Agnostic and modular state management"
+  },
+  {
+    "name": "Vuex",
+    "ring": "hold",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "State management for Vue. It's used to share states/variables across components"
+  },
+  {
+    "name": "JQuery",
+    "ring": "hold",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Old-school coding. This library is not used anymore. All functionalities in JQuery are available in ES6+ and native browser APIs"
+  },
+  {
+    "name": "axios",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "AJAX library helper, should be replaced with built-in window.fetch function or use polyfill for it"
+  },
+  {
+    "name": "vue-i18n 9.2.2",
+    "ring": "assess",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "I18n support for vue. It provides multiple translation function based on our language library"
+  },
+  {
+    "name": "vue-router",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Router for vue"
+  },
+  {
+    "name": "moment.js",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Date formatter and manipulator, too heavy to use. Use date-format-lite instead"
+  },
+  {
+    "name": "NPM",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Defacto package manager. We will use it as default package manager for Frontend projects."
+  },
+  {
+    "name": "Webpack",
+    "ring": "hold",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Popular packager. A simple configurable packager that's still used widely. In the future we may all move to Rollup."
+  },
+  {
+    "name": "Parcel",
+    "ring": "hold",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Hold because of inconsistent result (can't be used in webpack). We now use Rollup."
+  },
+  {
+    "name": "Vite",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "New Vue packager. It's replacing vue-cli. Built on top of Rollup."
+  },
+  {
+    "name": "vue-cli",
+    "ring": "hold",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Vue project runner and builder for Vue 2. Currently it's being replaced by Vite.js"
+  },
+  {
+    "name": "babel",
+    "ring": "hold",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "JS transpiler. It transpile modern version of JS to a targetted one, such as from ES6 to ES5. We now have larger modern support"
+  },
+  {
+    "name": "lighthouse 10",
+    "ring": "assess",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "Web benchmarker. The output is performance reports along with SEO, accessibility, best practices and PWA scores. It's official web benchmarker from Google."
+  },
+  {
+    "name": "Yarn",
+    "ring": "hold",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Popular package manager. We are not recommending using it because it has deviated quite much from the official package manager (NPM)"
+  },
+  {
+    "name": "Nodejs Modules",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "TRUE",
+    "description": "In order to reduce code duplicaton and faster load. https://docs.npmjs.com/creating-node-js-modules"
+  },
+  {
+    "name": "Iframe to load segment of existing web",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "We wanted to load segments of a page using iframe. Should be achieved using nodejs modules"
+  },
+  {
+    "name": "Vue composition API",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Functional programming for Vue. It will be more verbose and reusable to have composition api compared to options api"
+  },
+  {
+    "name": "Lazy-load / Lazy-rendering",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Only load or render inside viewport content. Do not load everything at once. Use Observer pattern to detect location in viewport"
+  },
+  {
+    "name": "web.dev - Web Core Vitals",
+    "ring": "assess",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Measurement standard for web. Go to web.dev for more info"
+  },
+  {
+    "name": "Web Canary Release",
+    "ring": "assess",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "Safe release to only internal user. We route request to 'newest' version only for internal"
+  },
+  {
+    "name": "Backend Service Canary Release",
+    "ring": "assess",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "Release service as canary (internal user) first"
+  },
+  {
+    "name": "FE Unit test",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Unit test in Frontend can not really shows changes and backward compatibility (integrity) of our UI. It should be replaced by UI Integration Test"
+  },
+  {
+    "name": "FE Integration test",
+    "ring": "assess",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "Provides snapshots and integrity checking for our UI. It shows before and after for every changes to review properly"
+  },
+  {
+    "name": "Modern JS Output for Modern browser (ES6+)",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "Output adaptive output when building codes. It will most probably use ES6+ standards when possible and falback to ES2005 when not possible."
+  },
+  {
+    "name": "PWA",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "Modern web browser standard"
+  }
+]

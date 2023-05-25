@@ -42,7 +42,7 @@
     "description": "NoSQL database for our backend services"
   },
   {
-    "name": "Javascript",
+    "name": "Typescript",
     "ring": "adopt",
     "quadrant": "Languages and Frameworks",
     "isNew": "FALSE",
