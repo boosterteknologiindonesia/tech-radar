@@ -77,6 +77,13 @@
     "description": "JavaScript Testing Framework with a focus on simplicity"
   },
   {
+    "name": "MongoDB Compas",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "MongoDB Client"
+  },
+  {
     "name": "Domain Driven Design",
     "ring": "adopt",
     "quadrant": "Techniques",
