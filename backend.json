@@ -85,7 +85,7 @@
   },
   {
     "name": "Sonarqube",
-    "ring": "adopt",
+    "ring": "assess",
     "quadrant": "Tools",
     "isNew": "TRUE",
     "description": "automatic code review tool that systematically helps you deliver clean code"
