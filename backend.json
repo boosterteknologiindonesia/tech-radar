@@ -84,6 +84,13 @@
     "description": "MongoDB Client"
   },
   {
+    "name": "Sonarqube",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "automatic code review tool that systematically helps you deliver clean code"
+  },
+  {
     "name": "Domain Driven Design",
     "ring": "adopt",
     "quadrant": "Techniques",
